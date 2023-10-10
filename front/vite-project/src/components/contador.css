@@ -1,0 +1,22 @@
+.container-contador{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.suma, .resta{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    font-size: 50px;
+}
+
+.currentClass{
+    display: flex;
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
